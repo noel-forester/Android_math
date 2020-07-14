@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android_math</string>
+    <string name="button1">足し算1</string>
+    <string name="button2">引き算1</string>
+</resources>
