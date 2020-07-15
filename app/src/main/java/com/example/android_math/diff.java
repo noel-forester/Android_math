@@ -6,13 +6,13 @@ import android.view.View;
 import android.widget.Button;
 import androidx.appcompat.app.AppCompatActivity;
 
-public class sub extends AppCompatActivity {
+public class diff extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState){
         super.onCreate(savedInstanceState);
 
-        setContentView(R.layout.sub);
+        setContentView(R.layout.diff1);
 
         Button returnButton = findViewById(R.id.sum_return);
         returnButton.setOnClickListener(new View.OnClickListener() {

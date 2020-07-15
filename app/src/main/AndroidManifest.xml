@@ -20,7 +20,7 @@
             android:label="@string/app_name">
 
         </activity>
-        <activity android:name=".sub"
+        <activity android:name=".diff"
             android:label="@string/app_name">
         </activity>
     </application>
