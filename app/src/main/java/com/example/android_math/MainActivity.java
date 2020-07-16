@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Button sum1Button = findViewById(R.id.sum1_button);
-        Button sub1Button = findViewById(R.id.sub1);
+        Button diff1Button = findViewById(R.id.diff1_button);
 
         sum1Button.setOnClickListener(new View.OnClickListener() {
 
@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
 
-        sub1Button.setOnClickListener(new View.OnClickListener() {
+        diff1Button.setOnClickListener(new View.OnClickListener() {
 
             @Override
             public void onClick(View v) {

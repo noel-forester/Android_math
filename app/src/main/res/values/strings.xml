@@ -1,6 +1,21 @@
 <resources>
     <string name="app_name">Android_math</string>
-    <string name="button1">足し算1</string>
-    <string name="button2">引き算1</string>
+    <string name="title">メニュー</string>
+    <string name="button1">10までの足し算</string>
+    <string name="button2">10までの引き算</string>
     <string name="return_button">もどる</string>
+    <string name="question">1+1=</string>
+    <string name="Answer">2</string>
+    <string name="non_use">non_use</string>
+    <string name="button_0">0</string>
+    <string name="button_1">1</string>
+    <string name="button_2">2</string>
+    <string name="button_3">3</string>
+    <string name="button_4">4</string>
+    <string name="button_5">5</string>
+    <string name="button_6">6</string>
+    <string name="button_7">7</string>
+    <string name="button_8">8</string>
+    <string name="button_9">9</string>
+    <string name="button_answer">=</string>
 </resources>
