@@ -20,7 +20,6 @@ public class diff extends AppCompatActivity {
         chronometer.start();
 
         Button returnButton = findViewById(R.id.diff_return);
-
         returnButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {

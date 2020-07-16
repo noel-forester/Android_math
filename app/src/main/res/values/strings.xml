@@ -5,7 +5,7 @@
     <string name="button2">10までの引き算</string>
     <string name="return_button">もどる</string>
     <string name="question">1+1=</string>
-    <string name="Answer">2</string>
+    <string name="Answer"/>
     <string name="non_use">non_use</string>
     <string name="button_0">0</string>
     <string name="button_1">1</string>
@@ -18,4 +18,5 @@
     <string name="button_8">8</string>
     <string name="button_9">9</string>
     <string name="button_answer">=</string>
+    <string name="question_start">スタート</string>
 </resources>
